@@ -2,7 +2,7 @@
 The classic snake and ball game made using python and the Turtle graphics library. Consume more balls, grow longer, get a higher score.
 
 # Sample
-![Snake Ball Game Sample](./sampple.png)
+![Snake Ball Game Sample](./sample.png)
 
 # Features:
 Intuitive keyboard controls (Up, Down, Left, Right) to steer the snake.
